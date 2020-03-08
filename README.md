@@ -1,1 +1,1 @@
-{'url':'http://bashikc.club','app_download':'http://bashikc.club','app_version':'1','tg_group':'http://www.vpnbus.xyz'}
+{'url':'http://sit.hkss.win','app_download':'http://sit.hkss.win','app_version':'1','tg_group':'http://www.vpnbus.xyz'}
